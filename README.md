@@ -13,5 +13,5 @@ Two columns : the first column for user ids, which can be directly approached fr
 
 the second column for a predicted probability that the user would continue the sub, value ranges from 0 to 1  
 
-Version 1.0 , editted on Oct 30, 2017 by Michael C Dong  
+Version 1.1 , editted on Oct 30, 2017 by Kyle Xie  
 
