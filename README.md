@@ -1,5 +1,5 @@
-# Stat441-Final
-## Final presentation recources  
+# Kaggle WSDM Churn Prediction Challenge
+
 ## Description 
 The link of the competition : https://www.kaggle.com/c/kkbox-churn-prediction-challenge 
 ## Theme and purpose 
